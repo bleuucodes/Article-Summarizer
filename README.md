@@ -1,8 +1,18 @@
 
+# Article Summarizer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and efficient web app that summarizes articles using RapidAPI. Built with *React (Vite)* for lightning-fast performance, it allows users to input any article URL and get a quick, concise summary using AI-powered summarization.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Summarize any article by pasting its URL
+- Clean and responsive user interface
+- Built with Vite for fast development and build speed
+- Uses RapidAPI for summarization backend
+
+## Tech Stack
+
+- *Frontend:* React (Vite)
+- *API:* RapidAPI (Article Summarizer API)
+- *Styling:* Tailwind CSS
+
